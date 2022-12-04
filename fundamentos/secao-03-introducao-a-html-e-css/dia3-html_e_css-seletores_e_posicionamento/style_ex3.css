@@ -1,0 +1,13 @@
+h1,
+p {
+  text-align: center;
+}
+.list:hover {
+  background-color: aquamarine;
+}
+.list:active {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+li {
+  list-style: none;
+}
