@@ -1,0 +1,12 @@
+#sideBySide {
+  margin-right: auto;
+  margin-left: auto;
+}
+#sideBySide section {
+display: inline;
+margin: 0
+;
+}
+#sideBySide aside {
+    display: inline;
+    }
